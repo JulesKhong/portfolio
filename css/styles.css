@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+h1 {
+  2em;
+  color: #ccd6dd;
+}
+
+#myCarousel {
+  text-align: center;
+  margin: 0;
+  background: #ccd6dd;
+}
+
+.container {
+  margin: 0;
+  display: block;
+}
