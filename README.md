@@ -5,7 +5,7 @@
 ### By Julia Dickey
 
 ##Description
-This site houses my work, and links to projects I've completed so far
+This site houses my work, and links to projects I've completed so far at Epicodus
 
 ##Setup
 1. Open in browser
