@@ -8,8 +8,9 @@
 This site houses my work, and links to projects I've completed so far at Epicodus
 
 ##Setup
-1. Open in browser
-2. View site
+1. [Click here](https://github.com/JuliaDickey/portfolio) to see the folder in github
+2. Clone the "portfolio" folder to your desktop
+3. Open "index.html" in your preferred browser
 
 ##Support and Contact Details
 There are no known bugs, but if you encounter any issues please contact [Julia Dickey](http://www.juliadickey.com).
