@@ -19,15 +19,9 @@ a {
   text: none;
 }
 
-.first {
+.firstsecond {
   background: white;
   float:left;
-  height: 400px;
-}
-
-.second {
-  float: left;
-  background: white;
   height: 400px;
 }
 
